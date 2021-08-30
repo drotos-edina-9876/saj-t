@@ -1,0 +1,2 @@
+# saj-t
+saját próbálkozás
